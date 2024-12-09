@@ -1,2 +1,3 @@
 # CHAT
-this is practice project
+this is my first git repo
+Author - shivam 
